@@ -15,7 +15,7 @@ I have no prior experience in the field of computers but my interest in programm
 https://github.com/Padmini6699
 
 ## My Photo:
-![Picture]()
+![Picture](https://github.com/Padmini6699/big-data-dev/blob/main/image.jpg)
 
 
 
